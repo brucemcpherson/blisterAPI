@@ -1,5 +1,5 @@
 # Google Apps Script Project: blisterAPI
-This repo (blisterAPI) was automatically updated on 15 September 2015 11:47:22 BST by GasGit
+This repo (blisterAPI) was automatically updated on 28 September 2015 17:42:30 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project blisterAPI
@@ -35,8 +35,6 @@ cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|10|no|[here](libr
 cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|11|no|[here](libraries/cDelegateMemory "library source")
 cRipDB| cRipDB|MZUHVrKIC3rGLHAFDiLLGriz3TLx7pV4j|3|no|[here](libraries/cRipDB "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
